@@ -1,0 +1,121 @@
+/* Name: Chloe Wenner
+*  Date: 5/29/19
+*  Innovation Women */
+
+* {
+margin: 0;
+padding: 0;/*zeros out all padding and margins*/
+}
+
+body {
+width: 98%; /*width of entire page*/
+height: 1000%;
+background-color:lightyellow;
+margin: 10px auto;
+border: 2px solid navy;
+}
+
+h1{
+font-family: sans-serif;
+color: navy;
+text-decoration: underline; /*underlines all of the h1*/
+padding-top: 15px;
+}
+
+h2{
+font-family: sans-serif;
+color: navy;
+text-decoration: underline;
+margin-top: 1%;/*the margin top is 1% and all of the other sides are 0*/
+}
+
+h3{
+font-family: sans-serif;
+margin: 1% 0% 0% 2%;/*margin top/left is 1%*/
+color: navy;
+text-decoration: underline; /*underlines the information in the h3*/
+}
+
+q{
+font-family: monospace;
+font-size: 130%;/*changes the font size to 130%*/
+color: navy;
+}
+
+header {
+border-bottom: 2px solid navy;
+text-align: center; /*centers information*/
+font-family: monospace;
+background-color: lightblue;
+}
+
+#sidebarA {
+width: 20%;
+height: 890px;
+float: left;/*floats info to the left*/
+text-align: center;
+background-color: azure;
+font-size: 17px;
+}
+
+main {
+width: 57%;
+padding: 5px;
+height: 850%;
+float: left;/*floats info to the left so everything can fit on the main*/
+background-color: lightyellow;
+text-align: center;
+font-size: 17px;
+}
+
+#Toit1{
+width: 50%;
+height: 35%;
+border: 3px solid navy;/*border is a solid navy line*/
+}
+
+#Toit2{
+width:70%;
+height:25%;
+border: 3px solid navy;/*border is a solid navy line*/
+}
+
+#Toit3{
+width: 80%;
+height: 25%;
+border: 3px solid navy;/*border is a solid navy line*/
+}
+
+#sidebarB {
+width: 20%;
+height: 890px;
+float: right; /*floats column right in order for it to fit on the page*/
+text-align: center;/*centers all information*/
+background-color: azure;
+font-size: 17px;
+}
+
+footer {
+clear: both;
+border-top: 2px solid navy;
+background-color: lightblue;
+padding-bottom: 50px;
+}
+
+p{
+margin: 25px;
+color: black;
+font-family: sans-serif;
+}
+
+ul{
+font-family: sans-serif;
+font-size: 100%;
+margin: 0% 0% 0% 4%;/*left margin is 4%*/
+}
+
+#i{
+font-size: 75%; 
+float:right;/*move information to the right*/
+}
+
